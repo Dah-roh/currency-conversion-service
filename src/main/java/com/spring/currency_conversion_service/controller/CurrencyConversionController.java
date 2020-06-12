@@ -1,6 +1,7 @@
-package com.spring.currency_conversion_service;
+package com.spring.currency_conversion_service.controller;
 
 
+import com.spring.currency_conversion_service.CurrencyConversionBean;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
